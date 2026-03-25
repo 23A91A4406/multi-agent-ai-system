@@ -110,7 +110,7 @@ Write a brief blog post about the benefits of multi-agent AI systems
 
 ## Architecture Diagram
 
-![System Architecture](architectures.png)
+![System Architecture](architecture.png)
 
 ## Logging
 
